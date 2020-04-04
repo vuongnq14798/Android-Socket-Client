@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\drawable\\t.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\layout_config_screen_interface.xml.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\layout\\config_screen_interface.xml"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\drawable_left.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\drawable\\top.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\layout_test.xml.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zoro.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\drawable\\zoro.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\drawable_temp.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\drawable\\temp.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t1.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\drawable\\t1.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\layout_move_direction.xml.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\layout\\move_direction.xml"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_conect_interface.xml.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\layout\\test_conect_interface.xml"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\drawable_luffy.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\drawable\\luffy.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\drawable\\bt.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\vuong\\Downloads\\Test_Interface-20200322T151446Z-001\\Test_Interface\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    }
+]

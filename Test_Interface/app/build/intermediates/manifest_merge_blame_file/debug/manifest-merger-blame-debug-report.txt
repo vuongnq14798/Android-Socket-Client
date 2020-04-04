@@ -1,0 +1,79 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.thuan.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:5:5-79
+12-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:6:5-76
+13-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:6:22-73
+14
+15    <application
+15-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:7:5-33:19
+16        android:allowBackup="true"
+16-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:8:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.0.1] C:\Users\vuong\.gradle\caches\transforms-2\files-2.1\51ec9767ead7a598d20dd24a7369e6f6\core-1.0.1\AndroidManifest.xml:22:18-86
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:9:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:10:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:11:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:12:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:13:9-40
+26        <activity
+26-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:14:9-23:20
+27            android:name="com.example.thuan.myapplication.MainActivity"
+27-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:14:19-47
+28            android:screenOrientation="portrait" >
+28-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:15:12-48
+29            <intent-filter>
+29-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:18:13-22:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:19:17-69
+30-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:19:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:21:17-77
+32-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:21:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:24:9-26:15
+36            android:name="com.example.thuan.myapplication.ConfigScreen"
+36-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:24:19-47
+37            android:screenOrientation="sensorLandscape" />
+37-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:25:13-56
+38        <activity
+38-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:27:9-29:15
+39            android:name="com.example.thuan.myapplication.ConnectPC"
+39-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:27:19-44
+40            android:screenOrientation="sensorLandscape" />
+40-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:28:13-56
+41        <activity
+41-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:30:9-32:11
+42            android:name="com.example.thuan.myapplication.Test"
+42-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:30:19-39
+43            android:screenOrientation="sensorLandscape" />
+43-->C:\Users\vuong\Downloads\Test_Interface-20200322T151446Z-001\Test_Interface\app\src\main\AndroidManifest.xml:31:13-56
+44    </application>
+45
+46</manifest>
